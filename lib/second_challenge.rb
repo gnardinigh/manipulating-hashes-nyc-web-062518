@@ -11,6 +11,6 @@ def second_challenge
   a = items.flatten
   end
 
-  a
+  return a
 
 end
