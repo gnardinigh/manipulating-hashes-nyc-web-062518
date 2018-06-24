@@ -8,7 +8,7 @@ def second_challenge
 
   
   items = groceries.values
-  
+  puts items.inspect
   end
 
   
