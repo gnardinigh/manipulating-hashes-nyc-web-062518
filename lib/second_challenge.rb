@@ -9,5 +9,5 @@ def second_challenge
   
   items = groceries.values
   puts items
-  end
+  
 end
