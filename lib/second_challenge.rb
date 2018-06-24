@@ -6,7 +6,10 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-  
+  foods = []
+  groceries.each do |type,item|
+    
+  end
 
   
 
