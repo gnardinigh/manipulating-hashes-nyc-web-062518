@@ -8,6 +8,6 @@ def second_challenge
 
   
   items = groceries.values
-  puts items.inspect
+  a = items.flatten
   
 end
